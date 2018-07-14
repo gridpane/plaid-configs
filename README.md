@@ -11,7 +11,6 @@
 - REDIS 4.0
 - Memcached
 - Fail2ban
-- Netdata
 - UFW
 
 * * *
